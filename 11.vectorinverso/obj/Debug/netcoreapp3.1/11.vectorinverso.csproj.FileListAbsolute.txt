@@ -1,0 +1,11 @@
+C:\Users\NebuR\Documents\proyectos\11.vectorinverso\bin\Debug\netcoreapp3.1\11.vectorinverso.exe
+C:\Users\NebuR\Documents\proyectos\11.vectorinverso\bin\Debug\netcoreapp3.1\11.vectorinverso.deps.json
+C:\Users\NebuR\Documents\proyectos\11.vectorinverso\bin\Debug\netcoreapp3.1\11.vectorinverso.runtimeconfig.json
+C:\Users\NebuR\Documents\proyectos\11.vectorinverso\bin\Debug\netcoreapp3.1\11.vectorinverso.runtimeconfig.dev.json
+C:\Users\NebuR\Documents\proyectos\11.vectorinverso\bin\Debug\netcoreapp3.1\11.vectorinverso.dll
+C:\Users\NebuR\Documents\proyectos\11.vectorinverso\bin\Debug\netcoreapp3.1\11.vectorinverso.pdb
+C:\Users\NebuR\Documents\proyectos\11.vectorinverso\obj\Debug\netcoreapp3.1\11.vectorinverso.csprojAssemblyReference.cache
+C:\Users\NebuR\Documents\proyectos\11.vectorinverso\obj\Debug\netcoreapp3.1\11.vectorinverso.AssemblyInfoInputs.cache
+C:\Users\NebuR\Documents\proyectos\11.vectorinverso\obj\Debug\netcoreapp3.1\11.vectorinverso.AssemblyInfo.cs
+C:\Users\NebuR\Documents\proyectos\11.vectorinverso\obj\Debug\netcoreapp3.1\11.vectorinverso.dll
+C:\Users\NebuR\Documents\proyectos\11.vectorinverso\obj\Debug\netcoreapp3.1\11.vectorinverso.pdb

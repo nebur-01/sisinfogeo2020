@@ -1,0 +1,11 @@
+C:\Users\NebuR\Documents\proyectos\12.vectormultiplica\bin\Debug\netcoreapp3.1\12.vectormultiplica.exe
+C:\Users\NebuR\Documents\proyectos\12.vectormultiplica\bin\Debug\netcoreapp3.1\12.vectormultiplica.deps.json
+C:\Users\NebuR\Documents\proyectos\12.vectormultiplica\bin\Debug\netcoreapp3.1\12.vectormultiplica.runtimeconfig.json
+C:\Users\NebuR\Documents\proyectos\12.vectormultiplica\bin\Debug\netcoreapp3.1\12.vectormultiplica.runtimeconfig.dev.json
+C:\Users\NebuR\Documents\proyectos\12.vectormultiplica\bin\Debug\netcoreapp3.1\12.vectormultiplica.dll
+C:\Users\NebuR\Documents\proyectos\12.vectormultiplica\bin\Debug\netcoreapp3.1\12.vectormultiplica.pdb
+C:\Users\NebuR\Documents\proyectos\12.vectormultiplica\obj\Debug\netcoreapp3.1\12.vectormultiplica.csprojAssemblyReference.cache
+C:\Users\NebuR\Documents\proyectos\12.vectormultiplica\obj\Debug\netcoreapp3.1\12.vectormultiplica.AssemblyInfoInputs.cache
+C:\Users\NebuR\Documents\proyectos\12.vectormultiplica\obj\Debug\netcoreapp3.1\12.vectormultiplica.AssemblyInfo.cs
+C:\Users\NebuR\Documents\proyectos\12.vectormultiplica\obj\Debug\netcoreapp3.1\12.vectormultiplica.dll
+C:\Users\NebuR\Documents\proyectos\12.vectormultiplica\obj\Debug\netcoreapp3.1\12.vectormultiplica.pdb

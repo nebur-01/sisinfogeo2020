@@ -1,0 +1,11 @@
+C:\Users\NebuR\Documents\proyectos\13.vectorestadisticaR\bin\Debug\netcoreapp3.1\13.vectorestadisticaR.exe
+C:\Users\NebuR\Documents\proyectos\13.vectorestadisticaR\bin\Debug\netcoreapp3.1\13.vectorestadisticaR.deps.json
+C:\Users\NebuR\Documents\proyectos\13.vectorestadisticaR\bin\Debug\netcoreapp3.1\13.vectorestadisticaR.runtimeconfig.json
+C:\Users\NebuR\Documents\proyectos\13.vectorestadisticaR\bin\Debug\netcoreapp3.1\13.vectorestadisticaR.runtimeconfig.dev.json
+C:\Users\NebuR\Documents\proyectos\13.vectorestadisticaR\bin\Debug\netcoreapp3.1\13.vectorestadisticaR.dll
+C:\Users\NebuR\Documents\proyectos\13.vectorestadisticaR\bin\Debug\netcoreapp3.1\13.vectorestadisticaR.pdb
+C:\Users\NebuR\Documents\proyectos\13.vectorestadisticaR\obj\Debug\netcoreapp3.1\13.vectorestadisticaR.csprojAssemblyReference.cache
+C:\Users\NebuR\Documents\proyectos\13.vectorestadisticaR\obj\Debug\netcoreapp3.1\13.vectorestadisticaR.AssemblyInfoInputs.cache
+C:\Users\NebuR\Documents\proyectos\13.vectorestadisticaR\obj\Debug\netcoreapp3.1\13.vectorestadisticaR.AssemblyInfo.cs
+C:\Users\NebuR\Documents\proyectos\13.vectorestadisticaR\obj\Debug\netcoreapp3.1\13.vectorestadisticaR.dll
+C:\Users\NebuR\Documents\proyectos\13.vectorestadisticaR\obj\Debug\netcoreapp3.1\13.vectorestadisticaR.pdb
