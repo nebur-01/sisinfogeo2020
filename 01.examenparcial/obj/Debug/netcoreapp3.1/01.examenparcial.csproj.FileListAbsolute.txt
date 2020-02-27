@@ -1,0 +1,11 @@
+C:\Users\NebuR\Documents\proyectos\01.examenparcial\obj\Debug\netcoreapp3.1\01.examenparcial.csprojAssemblyReference.cache
+C:\Users\NebuR\Documents\proyectos\01.examenparcial\obj\Debug\netcoreapp3.1\01.examenparcial.AssemblyInfoInputs.cache
+C:\Users\NebuR\Documents\proyectos\01.examenparcial\obj\Debug\netcoreapp3.1\01.examenparcial.AssemblyInfo.cs
+C:\Users\NebuR\Documents\proyectos\01.examenparcial\bin\Debug\netcoreapp3.1\01.examenparcial.exe
+C:\Users\NebuR\Documents\proyectos\01.examenparcial\bin\Debug\netcoreapp3.1\01.examenparcial.deps.json
+C:\Users\NebuR\Documents\proyectos\01.examenparcial\bin\Debug\netcoreapp3.1\01.examenparcial.runtimeconfig.json
+C:\Users\NebuR\Documents\proyectos\01.examenparcial\bin\Debug\netcoreapp3.1\01.examenparcial.runtimeconfig.dev.json
+C:\Users\NebuR\Documents\proyectos\01.examenparcial\bin\Debug\netcoreapp3.1\01.examenparcial.dll
+C:\Users\NebuR\Documents\proyectos\01.examenparcial\bin\Debug\netcoreapp3.1\01.examenparcial.pdb
+C:\Users\NebuR\Documents\proyectos\01.examenparcial\obj\Debug\netcoreapp3.1\01.examenparcial.dll
+C:\Users\NebuR\Documents\proyectos\01.examenparcial\obj\Debug\netcoreapp3.1\01.examenparcial.pdb
