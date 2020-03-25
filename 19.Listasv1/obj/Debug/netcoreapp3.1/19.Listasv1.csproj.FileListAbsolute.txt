@@ -1,0 +1,11 @@
+C:\Users\NebuR\Documents\proyectos\19.Listasv1\bin\Debug\netcoreapp3.1\19.Listasv1.exe
+C:\Users\NebuR\Documents\proyectos\19.Listasv1\bin\Debug\netcoreapp3.1\19.Listasv1.deps.json
+C:\Users\NebuR\Documents\proyectos\19.Listasv1\bin\Debug\netcoreapp3.1\19.Listasv1.runtimeconfig.json
+C:\Users\NebuR\Documents\proyectos\19.Listasv1\bin\Debug\netcoreapp3.1\19.Listasv1.runtimeconfig.dev.json
+C:\Users\NebuR\Documents\proyectos\19.Listasv1\bin\Debug\netcoreapp3.1\19.Listasv1.dll
+C:\Users\NebuR\Documents\proyectos\19.Listasv1\bin\Debug\netcoreapp3.1\19.Listasv1.pdb
+C:\Users\NebuR\Documents\proyectos\19.Listasv1\obj\Debug\netcoreapp3.1\19.Listasv1.csprojAssemblyReference.cache
+C:\Users\NebuR\Documents\proyectos\19.Listasv1\obj\Debug\netcoreapp3.1\19.Listasv1.AssemblyInfoInputs.cache
+C:\Users\NebuR\Documents\proyectos\19.Listasv1\obj\Debug\netcoreapp3.1\19.Listasv1.AssemblyInfo.cs
+C:\Users\NebuR\Documents\proyectos\19.Listasv1\obj\Debug\netcoreapp3.1\19.Listasv1.dll
+C:\Users\NebuR\Documents\proyectos\19.Listasv1\obj\Debug\netcoreapp3.1\19.Listasv1.pdb
