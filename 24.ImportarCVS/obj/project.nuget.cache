@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pt+CqF6siNQMuDo0ojnrxy/bAtXMlwFgNwq8CfjvtL0GkcJvPiRuwR22OUeoTfDxQrv5NLN+qOpa30D1UZoccw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NebuR\\Documents\\proyectos\\24.ImportarCVS\\24.ImportarCVS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NebuR\\.nuget\\packages\\csvhelper\\15.0.3\\csvhelper.15.0.3.nupkg.sha512",
+    "C:\\Users\\NebuR\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\NebuR\Documents\proyectos\24.ImportarCVS\obj\Debug\netcoreapp3.1\24.ImportarCVS.csprojAssemblyReference.cache
+C:\Users\NebuR\Documents\proyectos\24.ImportarCVS\obj\Debug\netcoreapp3.1\24.ImportarCVS.AssemblyInfoInputs.cache
+C:\Users\NebuR\Documents\proyectos\24.ImportarCVS\obj\Debug\netcoreapp3.1\24.ImportarCVS.AssemblyInfo.cs
+C:\Users\NebuR\Documents\proyectos\24.ImportarCVS\obj\Debug\netcoreapp3.1\24.ImportarCVS.csproj.CoreCompileInputs.cache
+C:\Users\NebuR\Documents\proyectos\24.ImportarCVS\bin\Debug\netcoreapp3.1\24.ImportarCVS.exe
+C:\Users\NebuR\Documents\proyectos\24.ImportarCVS\bin\Debug\netcoreapp3.1\24.ImportarCVS.deps.json
+C:\Users\NebuR\Documents\proyectos\24.ImportarCVS\bin\Debug\netcoreapp3.1\24.ImportarCVS.runtimeconfig.json
+C:\Users\NebuR\Documents\proyectos\24.ImportarCVS\bin\Debug\netcoreapp3.1\24.ImportarCVS.runtimeconfig.dev.json
+C:\Users\NebuR\Documents\proyectos\24.ImportarCVS\bin\Debug\netcoreapp3.1\24.ImportarCVS.dll
+C:\Users\NebuR\Documents\proyectos\24.ImportarCVS\bin\Debug\netcoreapp3.1\24.ImportarCVS.pdb
+C:\Users\NebuR\Documents\proyectos\24.ImportarCVS\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\NebuR\Documents\proyectos\24.ImportarCVS\obj\Debug\netcoreapp3.1\24.ImportarCVS.csproj.CopyComplete
+C:\Users\NebuR\Documents\proyectos\24.ImportarCVS\obj\Debug\netcoreapp3.1\24.ImportarCVS.dll
+C:\Users\NebuR\Documents\proyectos\24.ImportarCVS\obj\Debug\netcoreapp3.1\24.ImportarCVS.pdb
+C:\Users\NebuR\Documents\proyectos\24.ImportarCVS\obj\Debug\netcoreapp3.1\24.ImportarCVS.genruntimeconfig.cache
