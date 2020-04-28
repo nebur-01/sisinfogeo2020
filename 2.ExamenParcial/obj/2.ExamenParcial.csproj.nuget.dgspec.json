@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NebuR\\Documents\\proyectos\\24.ImportarCVS\\24.ImportarCVS.csproj": {}
+    "C:\\Users\\NebuR\\Documents\\proyectos\\2.ExamenParcial\\2.ExamenParcial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NebuR\\Documents\\proyectos\\24.ImportarCVS\\24.ImportarCVS.csproj": {
+    "C:\\Users\\NebuR\\Documents\\proyectos\\2.ExamenParcial\\2.ExamenParcial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NebuR\\Documents\\proyectos\\24.ImportarCVS\\24.ImportarCVS.csproj",
-        "projectName": "24.ImportarCVS",
-        "projectPath": "C:\\Users\\NebuR\\Documents\\proyectos\\24.ImportarCVS\\24.ImportarCVS.csproj",
+        "projectUniqueName": "C:\\Users\\NebuR\\Documents\\proyectos\\2.ExamenParcial\\2.ExamenParcial.csproj",
+        "projectName": "2.ExamenParcial",
+        "projectPath": "C:\\Users\\NebuR\\Documents\\proyectos\\2.ExamenParcial\\2.ExamenParcial.csproj",
         "packagesPath": "C:\\Users\\NebuR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NebuR\\Documents\\proyectos\\24.ImportarCVS\\obj\\",
+        "outputPath": "C:\\Users\\NebuR\\Documents\\proyectos\\2.ExamenParcial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NebuR\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,7 +40,7 @@
           "dependencies": {
             "CsvHelper": {
               "target": "Package",
-              "version": "[*, )"
+              "version": "[15.0.5, )"
             }
           },
           "imports": [

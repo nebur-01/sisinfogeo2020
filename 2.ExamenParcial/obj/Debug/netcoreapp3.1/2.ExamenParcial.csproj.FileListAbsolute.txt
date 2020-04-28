@@ -1,0 +1,15 @@
+C:\Users\NebuR\Documents\proyectos\2.ExamenParcial\bin\Debug\netcoreapp3.1\2.ExamenParcial.exe
+C:\Users\NebuR\Documents\proyectos\2.ExamenParcial\bin\Debug\netcoreapp3.1\2.ExamenParcial.deps.json
+C:\Users\NebuR\Documents\proyectos\2.ExamenParcial\bin\Debug\netcoreapp3.1\2.ExamenParcial.runtimeconfig.json
+C:\Users\NebuR\Documents\proyectos\2.ExamenParcial\bin\Debug\netcoreapp3.1\2.ExamenParcial.runtimeconfig.dev.json
+C:\Users\NebuR\Documents\proyectos\2.ExamenParcial\bin\Debug\netcoreapp3.1\2.ExamenParcial.dll
+C:\Users\NebuR\Documents\proyectos\2.ExamenParcial\bin\Debug\netcoreapp3.1\2.ExamenParcial.pdb
+C:\Users\NebuR\Documents\proyectos\2.ExamenParcial\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\NebuR\Documents\proyectos\2.ExamenParcial\obj\Debug\netcoreapp3.1\2.ExamenParcial.csprojAssemblyReference.cache
+C:\Users\NebuR\Documents\proyectos\2.ExamenParcial\obj\Debug\netcoreapp3.1\2.ExamenParcial.csproj.CoreCompileInputs.cache
+C:\Users\NebuR\Documents\proyectos\2.ExamenParcial\obj\Debug\netcoreapp3.1\2.ExamenParcial.AssemblyInfoInputs.cache
+C:\Users\NebuR\Documents\proyectos\2.ExamenParcial\obj\Debug\netcoreapp3.1\2.ExamenParcial.AssemblyInfo.cs
+C:\Users\NebuR\Documents\proyectos\2.ExamenParcial\obj\Debug\netcoreapp3.1\2.ExamenParcial.csproj.CopyComplete
+C:\Users\NebuR\Documents\proyectos\2.ExamenParcial\obj\Debug\netcoreapp3.1\2.ExamenParcial.dll
+C:\Users\NebuR\Documents\proyectos\2.ExamenParcial\obj\Debug\netcoreapp3.1\2.ExamenParcial.pdb
+C:\Users\NebuR\Documents\proyectos\2.ExamenParcial\obj\Debug\netcoreapp3.1\2.ExamenParcial.genruntimeconfig.cache

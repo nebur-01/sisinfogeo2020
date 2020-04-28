@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kpibIhTrGXuDcEmd6L7D7ULqt/4CcIynSCLoDPneKfwqklZ6uR2SkR2uI2aXqMdIkd84COY1DgAdxAXfWHqH/A==",
+  "dgSpecHash": "+qVLEekzWEfJXedStcYfhlhvKRxhMsAPLtYlOckYd0uY+Nza7erUqBQ5aYGo3N+2sOmLAFXbOS5e5owOjaiQAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NebuR\\Documents\\proyectos\\24.ImportarCVS\\24.ImportarCVS.csproj",
+  "projectFilePath": "C:\\Users\\NebuR\\Documents\\proyectos\\2.ExamenParcial\\2.ExamenParcial.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NebuR\\.nuget\\packages\\csvhelper\\15.0.5\\csvhelper.15.0.5.nupkg.sha512",
     "C:\\Users\\NebuR\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
