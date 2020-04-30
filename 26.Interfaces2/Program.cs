@@ -54,6 +54,8 @@ namespace _26.Interfaces2
             perro.Movimiento();
             perro.Crecimiento();
             perro.Corre();
+            perro.MultiCelular();
+            perro.SangreCaliente();
             perro.CuatroPatas();
             
             Perico perico = new Perico();
@@ -63,6 +65,8 @@ namespace _26.Interfaces2
             perico.Crecimiento();
             perico.Vuela();
             perico.Dospatas();
+            perico.SangreCaliente();
+            perico.MultiCelular();
         }
     }
 }

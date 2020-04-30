@@ -29,7 +29,7 @@ namespace _25.Interface1
             Console.WriteLine($"El perro {perro.Nombre}");
             perro.Llorar();
 
-            Gato gato = new Gato("Misifusi");
+            Gato gato = new Gato("Zeus");
             Console.WriteLine($"El gato {gato.Nombre}");
             gato.Llorar();
         }
