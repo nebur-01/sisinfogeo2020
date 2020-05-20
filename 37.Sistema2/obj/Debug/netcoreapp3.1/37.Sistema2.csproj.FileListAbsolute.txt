@@ -1,0 +1,13 @@
+C:\Users\NebuR\Documents\proyectos\37.Sistema2\bin\Debug\netcoreapp3.1\37.Sistema2.exe
+C:\Users\NebuR\Documents\proyectos\37.Sistema2\bin\Debug\netcoreapp3.1\37.Sistema2.deps.json
+C:\Users\NebuR\Documents\proyectos\37.Sistema2\bin\Debug\netcoreapp3.1\37.Sistema2.runtimeconfig.json
+C:\Users\NebuR\Documents\proyectos\37.Sistema2\bin\Debug\netcoreapp3.1\37.Sistema2.runtimeconfig.dev.json
+C:\Users\NebuR\Documents\proyectos\37.Sistema2\bin\Debug\netcoreapp3.1\37.Sistema2.dll
+C:\Users\NebuR\Documents\proyectos\37.Sistema2\bin\Debug\netcoreapp3.1\37.Sistema2.pdb
+C:\Users\NebuR\Documents\proyectos\37.Sistema2\obj\Debug\netcoreapp3.1\37.Sistema2.csprojAssemblyReference.cache
+C:\Users\NebuR\Documents\proyectos\37.Sistema2\obj\Debug\netcoreapp3.1\37.Sistema2.csproj.CoreCompileInputs.cache
+C:\Users\NebuR\Documents\proyectos\37.Sistema2\obj\Debug\netcoreapp3.1\37.Sistema2.AssemblyInfoInputs.cache
+C:\Users\NebuR\Documents\proyectos\37.Sistema2\obj\Debug\netcoreapp3.1\37.Sistema2.AssemblyInfo.cs
+C:\Users\NebuR\Documents\proyectos\37.Sistema2\obj\Debug\netcoreapp3.1\37.Sistema2.dll
+C:\Users\NebuR\Documents\proyectos\37.Sistema2\obj\Debug\netcoreapp3.1\37.Sistema2.pdb
+C:\Users\NebuR\Documents\proyectos\37.Sistema2\obj\Debug\netcoreapp3.1\37.Sistema2.genruntimeconfig.cache

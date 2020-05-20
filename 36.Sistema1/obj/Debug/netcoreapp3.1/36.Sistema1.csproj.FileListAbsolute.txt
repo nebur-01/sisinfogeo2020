@@ -1,0 +1,13 @@
+C:\Users\NebuR\Documents\proyectos\36.Sistema1\obj\Debug\netcoreapp3.1\36.Sistema1.csprojAssemblyReference.cache
+C:\Users\NebuR\Documents\proyectos\36.Sistema1\obj\Debug\netcoreapp3.1\36.Sistema1.csproj.CoreCompileInputs.cache
+C:\Users\NebuR\Documents\proyectos\36.Sistema1\obj\Debug\netcoreapp3.1\36.Sistema1.AssemblyInfoInputs.cache
+C:\Users\NebuR\Documents\proyectos\36.Sistema1\obj\Debug\netcoreapp3.1\36.Sistema1.AssemblyInfo.cs
+C:\Users\NebuR\Documents\proyectos\36.Sistema1\bin\Debug\netcoreapp3.1\36.Sistema1.exe
+C:\Users\NebuR\Documents\proyectos\36.Sistema1\bin\Debug\netcoreapp3.1\36.Sistema1.deps.json
+C:\Users\NebuR\Documents\proyectos\36.Sistema1\bin\Debug\netcoreapp3.1\36.Sistema1.runtimeconfig.json
+C:\Users\NebuR\Documents\proyectos\36.Sistema1\bin\Debug\netcoreapp3.1\36.Sistema1.runtimeconfig.dev.json
+C:\Users\NebuR\Documents\proyectos\36.Sistema1\bin\Debug\netcoreapp3.1\36.Sistema1.dll
+C:\Users\NebuR\Documents\proyectos\36.Sistema1\bin\Debug\netcoreapp3.1\36.Sistema1.pdb
+C:\Users\NebuR\Documents\proyectos\36.Sistema1\obj\Debug\netcoreapp3.1\36.Sistema1.dll
+C:\Users\NebuR\Documents\proyectos\36.Sistema1\obj\Debug\netcoreapp3.1\36.Sistema1.pdb
+C:\Users\NebuR\Documents\proyectos\36.Sistema1\obj\Debug\netcoreapp3.1\36.Sistema1.genruntimeconfig.cache
