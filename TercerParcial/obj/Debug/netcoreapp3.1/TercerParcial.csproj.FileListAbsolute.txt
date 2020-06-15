@@ -1,0 +1,13 @@
+C:\Users\NebuR\Documents\proyectos\TercerParcial\obj\Debug\netcoreapp3.1\TercerParcial.csprojAssemblyReference.cache
+C:\Users\NebuR\Documents\proyectos\TercerParcial\obj\Debug\netcoreapp3.1\TercerParcial.csproj.CoreCompileInputs.cache
+C:\Users\NebuR\Documents\proyectos\TercerParcial\obj\Debug\netcoreapp3.1\TercerParcial.AssemblyInfoInputs.cache
+C:\Users\NebuR\Documents\proyectos\TercerParcial\obj\Debug\netcoreapp3.1\TercerParcial.AssemblyInfo.cs
+C:\Users\NebuR\Documents\proyectos\TercerParcial\bin\Debug\netcoreapp3.1\TercerParcial.exe
+C:\Users\NebuR\Documents\proyectos\TercerParcial\bin\Debug\netcoreapp3.1\TercerParcial.deps.json
+C:\Users\NebuR\Documents\proyectos\TercerParcial\bin\Debug\netcoreapp3.1\TercerParcial.runtimeconfig.json
+C:\Users\NebuR\Documents\proyectos\TercerParcial\bin\Debug\netcoreapp3.1\TercerParcial.runtimeconfig.dev.json
+C:\Users\NebuR\Documents\proyectos\TercerParcial\bin\Debug\netcoreapp3.1\TercerParcial.dll
+C:\Users\NebuR\Documents\proyectos\TercerParcial\bin\Debug\netcoreapp3.1\TercerParcial.pdb
+C:\Users\NebuR\Documents\proyectos\TercerParcial\obj\Debug\netcoreapp3.1\TercerParcial.dll
+C:\Users\NebuR\Documents\proyectos\TercerParcial\obj\Debug\netcoreapp3.1\TercerParcial.pdb
+C:\Users\NebuR\Documents\proyectos\TercerParcial\obj\Debug\netcoreapp3.1\TercerParcial.genruntimeconfig.cache
